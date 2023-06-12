@@ -4,7 +4,7 @@
 ***Conteúdo do Módulo:***
 
 * [x] [O Que é Git?](https://github.com/Devsgeeknerd/cla-o-que-git-int-git-fun-bas)
-* [ ] [Instalando o Git.](https://github.com/Devsgeeknerd/cla-ins-git-int-git-fun-bas) &#128679;
+* [x] [Instalando o Git.](https://github.com/Devsgeeknerd/cla-ins-git-int-git-fun-bas)
 * [ ] [Repositório do Curso.](https://github.com/Devsgeeknerd/cla-rep-cur-int-git-fun-bas) &#128679;
 
 <!-- Informações -->
