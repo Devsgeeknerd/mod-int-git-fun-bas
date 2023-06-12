@@ -5,7 +5,7 @@
 
 * [x] [O Que é Git?](https://github.com/Devsgeeknerd/cla-o-que-git-int-git-fun-bas)
 * [x] [Instalando o Git.](https://github.com/Devsgeeknerd/cla-ins-git-int-git-fun-bas)
-* [ ] [Repositório do Curso.](https://github.com/Devsgeeknerd/cla-rep-cur-int-git-fun-bas) &#128679;
+* [x] [Repositório do Curso.](https://github.com/Devsgeeknerd/cla-rep-cur-int-git-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
